@@ -6,7 +6,7 @@ The humble `hello.py` program is shown here to display the words "Hello world!" 
 
 The purpose of this specific program serves as a proof of concept of the ability to create, as well as push and commit changes to a Distributed Version Control System (DVCS) such as Github. Below you will find a link to a short Youtube video walking through how the code executes and the result.
 
-[hello.py Demonstration](http://youtube.link.goes.here)
+[hello.py Demonstration](https://youtu.be/abP4tQ8qMlg)
 
 # Development Environment
 
